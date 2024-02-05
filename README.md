@@ -1,2 +1,2 @@
-# Decsision_Tree
+# Decision_Tree
 Example of decsision tree
